@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "url_encoding.h": "c",
+        "copy_to_clipboard.h": "c"
+    }
+}
