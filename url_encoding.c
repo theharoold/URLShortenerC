@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "url_encoding.h"
+
 const char* urlencode(const char* originalText)
 {
     // allocate memory for the worst possible case (all characters need to be encoded)
