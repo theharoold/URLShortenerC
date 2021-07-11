@@ -33,6 +33,8 @@ int main(int argc, char* argv[]) {
     chunk = handle_post_request(chunk, (const char*) encoded_url);
     
     // Copies the shortened url to clipboard, using windows.h
+    remove_backslash(chunk.memory);
+    chunk.memory = extract_url(chunk.memory);
     copy_to_clip(chunk.memory);
 
     free(chunk.memory);

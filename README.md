@@ -11,11 +11,12 @@ Implemented features:
 - URL Encoding
 - Copy URL to clipboard
 - URL Shortening
+- Extracting the URL from JSON response
 
 Planned features:
-- Simple JSON parsing
+- All core features have been implemented!
 
 Supported OS:
 - Windows
 
-2021\7\10
+2021\7\11
