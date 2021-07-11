@@ -16,6 +16,11 @@ Implemented features:
 Planned features:
 - All core features have been implemented!
 
+Example case:
+- ./main.exe https://www.google.com
+Example value in clipboard:
+- https://cleanuri.com/xo06VK
+
 Supported OS:
 - Windows
 
