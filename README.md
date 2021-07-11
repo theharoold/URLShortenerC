@@ -18,6 +18,7 @@ Planned features:
 
 Example case:
 - ./main.exe https://www.google.com
+
 Example value in clipboard:
 - https://cleanuri.com/xo06VK
 
